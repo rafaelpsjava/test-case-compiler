@@ -1,0 +1,17 @@
+package ${generatedTestCasesPackage};
+
+${imports}
+
+/**
+ * MainTestCaseImpl
+ *
+ * ${description}
+ *
+ * ${author}
+ *
+*/
+${suiteClasses}
+public class MainTestCaseImpl {
+
+}
+

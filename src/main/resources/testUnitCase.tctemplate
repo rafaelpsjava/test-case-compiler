@@ -1,0 +1,16 @@
+package ${generatedTestCasesPackage};
+
+${imports}
+
+/**
+ *
+ * ${description}
+ *
+ * ${author}
+ *
+*/
+public class ${testCaseName} {
+
+
+${methodsImpl}
+}
